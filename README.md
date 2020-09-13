@@ -7,8 +7,16 @@ Intended use as alternative way to view information on Ontario Universities Info
 - List of each university located in Ontario
 - Colorful list of all the programs in each University
 - General Information of each program including recommend grades and the required courses needed to apply
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/44479056/93013120-7cad5580-f573-11ea-9eb5-4ae0fb9da3fc.gif)
+
 - Star your favourite programs to view again and/or compare
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/44479056/93013156-cdbd4980-f573-11ea-8ec4-bacda4b14ef3.gif)
+
 - Calculate grade averages based off your course taken and marks inputted 
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/44479056/93013158-cf870d00-f573-11ea-980a-8c3cba94a216.gif)
 
 ## Prerequisites
 
