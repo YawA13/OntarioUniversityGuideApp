@@ -37,12 +37,12 @@ Click run
 Download [app-release.apk](https://github.com/YawA13/OntarioUniversityGuideApp/blob/master/app/release/app-release.apk) and install on android device (Lollipop 5.0 or above) 
 
 ## Built With
-- [Jsoup: java HTML Parser] (https://jsoup.org/)
+- [Jsoup: java HTML Parser](https://jsoup.org/)
 - Java 
 
 ## Acknowledgments
 
-All university data from [Ontario Universities Info] (https://www.ontariouniversitiesinfo.ca/) 
+All university data from [Ontario Universities Info](https://www.ontariouniversitiesinfo.ca/) 
 
 ## License
 
