@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E1F23</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+   <color name="textColor">#000000</color>
+
+
+    //main colors
+    <color name = "algoma">#B3282D</color>
+    <color name = "brock">#cc0000</color>
+    <color name = "carleton">#e31936</color>
+    <color name = "guelph">#C20430</color>
+    <color name = "guelph_humber">#24395f</color>
+    <color name = "hearst">#000000</color>
+    <color name = "lakehead">#00427A</color>
+    <color name = "laurentian">#0033AB</color>
+    <color name = "mcmaster">#7a003c</color>
+    <color name = "nipissing">#00457C</color>
+    <color name = "ocad">#000000</color>
+    <color name = "ontario_tech">#003C71</color>
+    <color name = "uottawa">#8f001a</color>
+    <color name = "saint_paul">#E36F1E</color>
+    <color name = "queens">#9d1939</color>
+    <color name = "rmc">#ff0000</color>
+    <color name = "ryerson">#004c9b</color>
+    <color name = "utm">#00204e</color>
+    <color name = "utsc">#00204e</color>
+    <color name = "uoftsg">#00204e</color>
+    <color name = "trent">#154734</color>
+    <color name = "trent_gta">#154734</color>
+    <color name = "waterloo">#000000</color>
+    <color name = "renison">#000000</color>
+    <color name = "st_jerome">#00583d</color>
+    <color name = "western">#4F2683</color>
+    <color name = "brescia">#164397</color>
+    <color name = "huron">#e00038</color>
+    <color name = "kings">#004236</color>
+    <color name = "brantford">#3D168B</color>
+    <color name = "wlu_waterloo">#3D168B</color>
+    <color name = "windsor">#005596</color>
+    <color name = "york">#cc0000</color>
+    <color name = "glendon">#004b8d</color>
+
+
+    //secondary colors
+    <color name = "algoma2">#ffffff</color>
+    <color name = "brock2">#ffffff</color>
+    <color name = "carleton2">#ffffff</color> //maybe black n white
+    <color name = "guelph2">#ffffff</color>  //maybe black n white
+    <color name = "guelph_humber2">#ffffff</color> //ce1140
+    <color name = "hearst2">#ffffff</color>
+    <color name = "lakehead2">#FFC20E</color>
+    <color name = "laurentian2">#fac644</color> //white
+    <color name = "mcmaster2">#ffffff</color>
+    <color name = "nipissing2">#ffffff</color>
+    <color name = "ocad2">#ffffff</color>
+    <color name = "ontario_tech2">#E75D2A </color> //reverse
+    <color name = "uottawa2">#ffffff</color>
+    <color name = "saint_paul2">#ffffff</color>
+    <color name = "queens2">#ffffff</color> //11335d
+    <color name = "rmc2">#ffffff</color>
+    <color name = "ryerson2">#ffdc00</color> //white
+    <color name = "utm2">#ffffff</color>
+    <color name = "utsc2">#ffffff</color>
+    <color name = "uoftsg2">#ffffff</color>
+    <color name = "trent2">#ffffff</color>
+    <color name = "trent_gta2">#ffffff</color>
+    <color name = "waterloo2">#ffffff</color>
+    <color name = "renison2">#00693C</color>
+    <color name = "st_jerome2">#c88a12</color> //white
+    <color name = "western2">#ffffff</color>
+    <color name = "brescia2">#F7A11A</color>
+    <color name = "huron2">#ffffff</color>
+    <color name = "kings2">#d7ae28</color> //white
+    <color name = "brantford2">#f8b800</color>
+    <color name = "wlu_waterloo2">#f8b800</color>
+    <color name = "windsor2">#FFCE00</color> //white
+    <color name = "york2">#ffffff</color>
+    <color name = "glendon2">#ffc107</color> //white
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/schoolTab"
+        android:title="Universities"
+        android:icon="@drawable/ic_school"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/favTab"
+        android:title="Favourites"
+        android:icon="@drawable/ic_star">
+
+    </item>
+
+    <item
+        android:id="@+id/marksTab"
+        android:title="Average Calculator"
+        android:icon="@drawable/ic_calculate">
+
+    </item>
+</menu>

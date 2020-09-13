@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">ouinfo</string>
+    <string name="main_url">https://www.ontariouniversitiesinfo.ca/</string>
+
+    //Array of each university name
+    <string-array name="university_name">
+        <item>Algoma University</item>
+        <item>Brock University</item>
+        <item>Carleton University</item>
+        <item>University of Guelph</item>
+        <item>University of Guelph-Humber</item>
+        <item>Université de Hearst – affiliée à l\'Université Laurentienne</item>
+        <item>Lakehead University</item>
+        <item>Laurentian University</item>
+        <item>McMaster University</item>
+        <item>Nipissing University</item>
+        <item>OCAD University</item>
+        <item>Ontario Tech University (University of Ontario Institute of Technology)</item>
+        <item>University of Ottawa</item>
+        <item>University of Ottawa – Saint Paul University</item>
+        <item>Queen\'s University</item>
+        <item>Royal Military College of Canada</item>
+        <item>Ryerson University</item>
+        <item>University of Toronto – Mississauga</item>
+        <item>University of Toronto – Scarborough</item>
+        <item>University of Toronto – St. George Campus</item>
+        <item>Trent University</item>
+        <item>Trent University Durham GTA</item>
+        <item>University of Waterloo</item>
+        <item>University of Waterloo – Renison University College</item>
+        <item>University of Waterloo – St. Jerome\'s University</item>
+        <item>Western University</item>
+        <item>Western University – Brescia University College</item>
+        <item>Western University – Huron University College</item>
+        <item>Western University – King\'s University College</item>
+        <item>Wilfrid Laurier University – Brantford Campus</item>
+        <item>Wilfrid Laurier University – Waterloo Campus</item>
+        <item>University of Windsor</item>
+        <item>York University</item>
+        <item>York University – Glendon Campus</item>
+
+    </string-array>
+
+    // Array of ending url of each university
+    <string-array name="university_url">
+        <item>programs/universities/algoma</item>
+        <item>programs/universities/brock</item>
+        <item>programs/universities/carleton</item>
+        <item>programs/universities/guelph</item>
+        <item>programs/universities/guelph-humber</item>
+        <item>programs/universities/laurentian-hearst</item>
+        <item>programs/universities/lakehead</item>
+        <item>programs/universities/laurentian</item>
+        <item>programs/universities/mcmaster</item>
+        <item>programs/universities/nipissing</item>
+        <item>programs/universities/ocad-u</item>
+        <item>programs/universities/ontario-tech</item>
+        <item>programs/universities/ottawa</item>
+        <item>programs/universities/ottawa-saint-paul</item>
+        <item>programs/universities/queens</item>
+        <item>programs/universities/rmc</item>
+        <item>programs/universities/ryerson</item>
+        <item>programs/universities/toronto-mississauga</item>
+        <item>programs/universities/toronto-scarborough</item>
+        <item>programs/universities/toronto-st-george</item>
+        <item>programs/universities/trent</item>
+        <item>programs/universities/trent-durham-gta</item>
+        <item>programs/universities/waterloo</item>
+        <item>programs/universities/waterloo-renison</item>
+        <item>/programs/universities/waterloo-st-jeromes</item>
+        <item>programs/universities/western</item>
+        <item>programs/universities/western-brescia</item>
+        <item>programs/universities/western-huron</item>
+        <item>programs/universities/western-kings</item>
+        <item>programs/universities/laurier-brantford</item>
+        <item>programs/universities/laurier-waterloo</item>
+        <item>programs/universities/windsor</item>
+        <item>programs/universities/york</item>
+        <item>programs/universities/york-glendon</item>
+    </string-array>
+
+    // Array of name of each university resource name (name of drawable associated with each university)
+    <string-array name="resNameArray">
+        <item>algoma</item>
+        <item>brock</item>
+        <item>carleton</item>
+        <item>guelph</item>
+        <item>guelph_humber</item>
+        <item>hearst</item>
+        <item>lakehead</item>
+        <item>laurentian</item>
+        <item>mcmaster</item>
+        <item>nipissing</item>
+        <item>ocad</item>
+        <item>ontario_tech</item>
+        <item>uottawa</item>
+        <item>saint_paul</item>
+        <item>queens</item>
+        <item>rmc</item>
+        <item>ryerson</item>
+        <item>utm</item>
+        <item>utsc</item>
+        <item>uoftsg</item>
+        <item>trent</item>
+        <item>trent_gta</item>
+        <item>waterloo</item>
+        <item>renison</item>
+        <item>st_jerome</item>
+        <item>western</item>
+        <item>brescia</item>
+        <item>huron</item>
+        <item>kings</item>
+        <item>brantford</item>
+        <item>wlu_waterloo</item>
+        <item>windsor</item>
+        <item>york</item>
+        <item>glendon</item>
+    </string-array>
+
+    // String for navigation drawer setup
+    <string name="Open">open</string>
+    <string name="Close">open</string>
+
+    //Array of all grades 12 courses (used to populate spinners)
+    <string-array name="course">
+        <item>N/A</item>
+        <item>ADA4M</item>
+        <item>ASM4M</item>
+        <item>AMU4M</item>
+        <item>ATC4M</item>
+        <item>AVI4M</item>
+        <item>BAT4M</item>
+        <item>BBB4M</item>
+        <item>BOH4M</item>
+        <item>CGO4M</item>
+        <item>CGR4M</item>
+        <item>CGU4M</item>
+        <item>CGU4U</item>
+        <item>CGW4U</item>
+        <item>CHI4U</item>
+        <item>CHY4U</item>
+        <item>CIA4U</item>
+        <item>CLN4U</item>
+        <item>CPW4U</item>
+        <item>ENG4U</item>
+        <item>ETS4U</item>
+        <item>EWC4U</item>
+        <item>FEF4U</item>
+        <item>FIF4U</item>
+        <item>FSF4U</item>
+        <item>HFA4M</item>
+        <item>HFA4U</item>
+        <item>HHG4M</item>
+        <item>HHS4M</item>
+        <item>HHS4U</item>
+        <item>HSB4M</item>
+        <item>HSB4U</item>
+        <item>HZT4U</item>
+        <item>ICS4U</item>
+        <item>IDC4U</item>
+        <item>LVV4U</item>
+        <item>MCV4U</item>
+        <item>MDM4U</item>
+        <item>MHF4U</item>
+        <item>NDG4M</item>
+        <item>NDW4M</item>
+        <item>PSE4U</item>
+        <item>PSK4U</item>
+        <item>SBI4U</item>
+        <item>SCH4U</item>
+        <item>SES4U</item>
+        <item>SNC4M</item>
+        <item>SPH4U</item>
+        <item>TDJ4M</item>
+        <item>TEJ4M</item>
+        <item>TGJ4M</item>
+        <item>THJ4M</item>
+        <item>TPJ4M</item>
+        <item>TMJ4M</item>
+    </string-array>
+
+</resources>
